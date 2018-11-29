@@ -1,0 +1,16 @@
+Node.js je softwarový systém navržený pro psaní vysoce škálovatelných internetových aplikací, především webových serverů. Programy pro Node.js jsou psané v jazyce JavaScript, hojně využívající model událostí a asynchronní I/O operace pro minimalizaci režie procesoru a maximalizaci výkonu.
+
+    stream.on('end', function () {
+        stream.end('goodbye\r\n');
+    });
+
+    stream.pipe(stream);
+}).listen(7000);
+Komunita[editovat | editovat zdroj]
+Node.js má velmi aktivní vývojářskou komunitu, která se soustředí hlavně kolem dvou mailing listů nodejs a nodejs-dev a také na IRC kanálu #node.js na freenode.
+
+Související články[editovat | editovat zdroj]
+JavaScript
+V8 (JavaScript engine)
+NPM, the Node Package Manager - the predominant package manager for Node.js. As of Node.js version 0.6.3, npm is installed automatically with Node.js.
+JSAN, the JavaScript Archive Network - a lesser used JavaScript package manager.
